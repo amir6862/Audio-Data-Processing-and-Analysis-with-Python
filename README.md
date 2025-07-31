@@ -1,1 +1,2 @@
 # Audio-Data-Processing-and-Analysis-with-Python
+Audio data is ubiquitous today, from music streaming platforms to virtual assistants. Analyzing and processing audio requires a solid understanding of data manipulation and visualization techniques. So, if you want to know about audio data processing and analysis, this article is for you. In this article, I’ll take you through the task of audio data processing and analysis with Python.
